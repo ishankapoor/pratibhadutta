@@ -1,0 +1,22 @@
+.profile-photo{
+   display:inline;
+   border-radius:50%;
+}
+.profile{
+   text-align:center;
+}
+.available{
+   margin-bottom: 1rem;
+   padding:1rem;
+   color:#717171;
+   background-color:#EFDC56;
+}
+.social{
+   list-style:none;
+   font-family: 'Pacifico', cursive;
+   font-size:1.75rem;
+}
+.announcement-image{
+   display:inline;
+   border-radius:5%;
+}
