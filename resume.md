@@ -8,7 +8,7 @@ date: 2014-12-21
   Last updated {{  page.date | date: '%B %d, %Y' }}. 
 </p>
 
-<h2><a href="http://www.globalgoodfund.org">Global Good Fund<span class="post-date">Arlington, VA</span></h2>
+### [Global Good Fund]("http://www.globalgoodfund.org")
 ### Volunteer
 <div class="post-date">August 2011 &dash;  March 2012 (8 months)</div>
 
