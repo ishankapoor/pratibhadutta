@@ -9,8 +9,9 @@ date: 2014-12-21
 </p>
 
 ## [Global Good Fund](http://www.globalgoodfund.org)
+<div class="post-date">Arlington, VA</div>
 ### Volunteer
-<div class="post-date">August 2011 &dash;  March 2012 (8 months) &#124; Arlington, VA</div>
+<div class="post-date">August 2011 &dash;  March 2012 (8 months)</div>
 
 * Developed company polices for U.S. employees.
 * Facilitated recruitment of full-time, part-time and temporary employees.
