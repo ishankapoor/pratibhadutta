@@ -9,7 +9,7 @@ date: 2014-12-21
 </p>
 
 ## [Global Good Fund](http://www.globalgoodfund.org)
-###Volunteer
+### Volunteer
 <div class="post-date">August 2011 &dash;  March 2012 (8 months) &#124; Arlington, VA</div>
 
 * Developed company polices for U.S. employees.
@@ -19,7 +19,7 @@ date: 2014-12-21
 * On-boarding of new employees.
 
 ## ProMaps
-###Human Resources Specialist
+### Human Resources Specialist
 <div class="post-date">August 2011 &dash;  March 2012 (8 months) &#124; Noida, India</div>
 
 * Developed policies for recruitment, interviews, leave management.
@@ -29,7 +29,7 @@ date: 2014-12-21
 * Facilitated recruitment of 200 workers, engineers and general managers for a Silver/Zinc metallurgy plant in rural India in the state of Uttarakhand.
 
 ## [Globedge.com](http://www.globaledgesoft.com)
-###Human Resources Specialist
+### Human Resources Specialist
 <div class="post-date">February 2011 &dash;  August 2011 (7 months) &#124; Noida, India</div>
 
 * Worked as recruiter at Globedege.com (real estate company)
@@ -38,7 +38,7 @@ date: 2014-12-21
 * Maintained confidential employee records
 
 ## Manpower Resource Center (MPRC)
-###Human Resources Coordinator
+### Human Resources Coordinator
 <div class="post-date">February 2010 &dash; January 2011 (1 year) &#124; Indore, India</div>
 
 * Recruited for various positions, from staff engineers to CEOs and CTOs in sectors ranging from textiles, business process outsourcing, and banks to Graphite electrode manufacturing. Used referrals, personal / professional network and social media for recruiting.
