@@ -25,3 +25,10 @@
    box-shadow: 0px 0px 24px 0px #515151;
    margin: 1rem 0 1rem;
 }
+.job-title{
+  margin-top: 0.5rem;
+  font-size: 1.25rem;
+}
+.job-location{
+  font-size: 1.25rem;
+}
