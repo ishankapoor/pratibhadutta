@@ -16,7 +16,7 @@ date: 2014-12-21
 * Developed job descriptions, offer letters.
 * On-boarding of new employees.
 
-## ProMaps<cite class="job-location">&mdash;Noida,India</cite>
+## ProMaps<cite class="job-location">&mdash;Noida, India</cite>
 <h3 class="job-title">Human Resources Specialist</h3>
 <div class="post-date">November 2011 &mdash;  April 2012 (6 months)</div>
 
