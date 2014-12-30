@@ -4,7 +4,7 @@ title: Resume
 date: 2014-12-21
 ---
 
-<p class="message">Last updated {{  page.date | date: '%B %d, %Y' }}.</p>
+<p class="message">Work Experience</p>
 
 <h2><a href="http://globalgoodfund.org">Global Good Fund</a><cite class="job-location">&mdash;Arlington, VA</cite></h2>
 <h3 class="job-title">Volunteer</h3>
@@ -42,3 +42,21 @@ date: 2014-12-21
 * Recruited for various positions, from staff engineers to CEOs and CTOs in sectors ranging from textiles, business process outsourcing, and banks to Graphite electrode manufacturing. Used referrals, personal / professional network and social media for recruiting.
 * Reviewed candidate's work experienced, skill sets, and work profile before sending best candidates for vetting and interview to fulfill the required position.
 * Arranged interviews, negotiated compensation and followed up with hiring managers.
+
+<p class="message">Education</p>
+
+## Masters in Business Administration
+<h3 class="job-title">Sikkim Manipal University</h3>
+<div class="post-date">2008 &mdash; 2010</div>
+
+## Post Graduation Program
+<h3 class="job-title">Indira Institute Of Business Management</h3>
+<div class="post-date">2008 &mdash; 2010</div>
+
+## Bachelor of Science
+<h3 class="job-title">Jiwaji University</h3>
+<div class="post-date">2004 &mdash; 2007</div>
+
+<div class="related">
+<p class="footnote">Last updated {{  page.date | date: '%B %d, %Y' }}</p>
+</div>
