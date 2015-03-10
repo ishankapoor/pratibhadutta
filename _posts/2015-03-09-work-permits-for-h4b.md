@@ -8,7 +8,7 @@ title: Work permits for H4B
 Federal goverment announced earlier this year that sposes of H1B visa holders like yours truly will be eligible to work in these united states
 </div>
 
-I felt like writing to thank the teams who lobbied for such a change and indeed the US government for realzing that:
+I felt like writing to thank the teams who lobbied for such a change and indeed the US government for realizing that:
 
 - Majority of the H4B visa holders are women.</a>
 - They are highly educated.
