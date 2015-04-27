@@ -5,7 +5,7 @@ title: Thoughts
 
 <div class="post">
   <ul class="related-posts">
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts %}
       <li>
         <h3>
           <a href="{{ post.url }}">
