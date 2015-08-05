@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-date: 2015-04-26
+date: 2015-08-05
 ---
 
 <p class="message">Work Experience</p>
