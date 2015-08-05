@@ -6,6 +6,15 @@ date: 2015-04-26
 
 <p class="message">Work Experience</p>
 
+<h2><a href="http://axleinfo.com">Axle Informatics</a><cite class="job-location">&mdash;Rockville, MD</cite></h2>
+<h3 class="job-title">Volunteer</h3>
+<div class="post-date">May 2015 &mdash; Present</div>
+
+* Developing employee handbook, recruitment process, offer letters.
+* On-boarding employees, renewing extension for temporary employees.
+* Organise meetings, lunches, happy hours for office. Participate in career fair.
+* Managing leaves and facilitating payrolls.
+
 <h2><a href="http://globalgoodfund.org">Global Good Fund</a><cite class="job-location">&mdash;Arlington, VA</cite></h2>
 <h3 class="job-title">Volunteer</h3>
 <div class="post-date">May 2013 &mdash; May 2014 (1 year 1 month)</div>
