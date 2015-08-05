@@ -12,7 +12,7 @@ date: 2015-04-26
 
 * Developing employee handbook, recruitment process, offer letters.
 * On-boarding employees, renewing extension for temporary employees.
-* Organise meetings, lunches, happy hours for office. Participate in career fair.
+* Organising meetings, lunches, happy hours for office;Participating in career fairs.
 * Managing leaves and facilitating payrolls.
 
 <h2><a href="http://globalgoodfund.org">Global Good Fund</a><cite class="job-location">&mdash;Arlington, VA</cite></h2>
