@@ -11,7 +11,7 @@ date: 2015-08-05
 <div class="post-date">May 2015 &mdash; Present</div>
 
 * Developing employee handbook, recruitment process, offer letters.
-* On-boarding employees, renewing extension for temporary employees.
+* On-boarding employees, renewing H1B extensions.
 * Organising meetings, lunches, happy hours for office;Participating in career fairs.
 * Managing leaves and facilitating payrolls.
 
