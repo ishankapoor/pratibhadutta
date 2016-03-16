@@ -11,28 +11,28 @@ date: 2016-03-15
 <div class="post-date">May 2015 &mdash; Present</div>
 
 * Making sure Axle Informatics has a continuous stream of national and international interns for positions with NIH offices near Bethesda, MD.
- * Placing job postings on university job boards, referrals from past interns.
- * Scheduling interviews wit NIH researchers and teams.
- * Getting security clearances and background checks for accepted interns.
- * Getting approval for Curricular/Optional Practical Training for interns from their university's office of international affairs.
+  * Placing job postings on university job boards, referrals from past interns.
+  * Scheduling interviews wit NIH researchers and teams.
+  * Getting security clearances and background checks for accepted interns.
+  * Getting approval for Curricular/Optional Practical Training for interns from their university's office of international affairs.
 * In charge of timesheets and payroll processing for all full time employees and interns.
- * Educating/training employees on how to manage time reporting.
- * Processing tax withholding / W4 processing for all employees.
- * Preparing 1099 tax forms for all interns and contractors.
- * Validating time sheets and sending for NIH approval.
+  * Educating/training employees on how to manage time reporting.
+  * Processing tax withholding / W4 processing for all employees.
+  * Preparing 1099 tax forms for all interns and contractors.
+  * Validating time sheets and sending for NIH approval.
 * Organizing happy hours and company events
- * Putting together the company holiday party.
- * Setting up company happy hour.
+  * Putting together the company holiday party.
+  * Setting up company happy hour.
 * Oversee the Alxe benefits program
- * Educating employees about various health/FSA/transport/401k/ plan options.
+  * Educating employees about various health/FSA/transport/401k/ plan options.
 * In charge of managing travel re-imbursement of employees with NIH.
- * Getting travel approval from the NIH offices.
- * Validating expenses, helping reimbursement from the NIH.
+  * Getting travel approval from the NIH offices.
+  * Validating expenses, helping reimbursement from the NIH.
 * Mentoring H.R interns.
- * Familiarizing them with interns time table at NIH.
- * Training them on interview process for various NIH positions(that Axle fills).
+  * Familiarizing them with interns time table at NIH.
+  * Training them on interview process for various NIH positions(that Axle fills).
 * Immigration paperwork.
- * CPT/OPT/H1B/H1B-extension for students interns and full time employees.
+  * CPT/OPT/H1B/H1B-extension for students interns and full time employees.
  
 <h2><a href="http://globalgoodfund.org">Global Good Fund</a><cite class="job-location">&mdash;Arlington, VA</cite></h2>
 <h3 class="job-title">Volunteer</h3>
