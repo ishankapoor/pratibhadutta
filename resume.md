@@ -32,7 +32,7 @@ date: 2016-03-15
   * Familiarizing them with interns time table at NIH.
   * Training them on interview process for various NIH positions(that Axle fills).
 * Immigration paperwork.
-  * CPT/OPT/H1B/H1B-extension for students interns and full time employees.
+  * CPT/OPT/H1B/H1B-extension for student interns and full time employees.
  
 <h2><a href="http://globalgoodfund.org">Global Good Fund</a><cite class="job-location">&mdash;Arlington, VA</cite></h2>
 <h3 class="job-title">Volunteer</h3>
