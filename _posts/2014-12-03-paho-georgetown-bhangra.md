@@ -9,4 +9,5 @@ I helped setup a flash mob for the [International Political Economy Society 2014
 
 ## Pan American Health Organization
 I co-coreographed a performance for the PAHO got Talent, [here](https://www.youtube.com/watch?v=YwkA9ClNkhI) is the YouTube video, and yes we did win.
+
 <img src=/img/paho-got-talent.jpg alt="paho-got-talent" class="post-image">
