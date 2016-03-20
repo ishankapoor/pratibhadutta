@@ -23,3 +23,7 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# Adding the sitemap gem as per GitHub documentation
+gems:
+  - jekyll-sitemap
