@@ -8,9 +8,9 @@ title: Work permits for H4B
 <a href="http://www.uscis.gov/news/dhs-extends-eligibility-employment-authorization-certain-h-4-dependent-spouses-h-1b-nonimmigrants-seeking-employment-based-lawful-permanent-residence">Federal government announced</a> earlier this year that spouses of H1B visa holders like yours truly will be eligible to work in these United States.
 </div>
 
-I felt like writing to thank the teams who lobbied for such a change and indeed the US government for realizing that:
+I felt like writing to thank those who lobbied for this change and indeed the US government for realizing that:
 
-- Majority of the H4B visa holders are women.</a>
+- Majority of the H4B visa holders are women.
 - They are highly educated.
 - They produce way more jobs for the market than they consume.
 
