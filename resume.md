@@ -8,7 +8,7 @@ date: 2016-03-15
 
 <h2><a href="http://axleinfo.com">Axle Informatics</a><cite class="job-location">&mdash;Rockville, MD</cite></h2>
 <h3 class="job-title">HR Associate</h3>
-<div class="post-date">May 2015 &mdash; Present</div>
+<div class="post-date">May 2015 &mdash; Oct 2016</div>
 
 * Making sure Axle Informatics has a continuous stream of national and international interns for positions with NIH offices near Bethesda, MD.
   * Placing job postings on university job boards, referrals from past interns.
