@@ -19,7 +19,7 @@ I'm a Human Resource MBA from India where most of my professional career has bee
 >> --CEO TRI International
 
 > This candidate is such a great find, I wish we keep getting more candidates like these
->> --Director of Regulatory Affairs @ TRI International
+>> --Director of Regulatory Affairs @ TRI Inc.
 
 <p class="available">
   I am actively looking for a job! Please contact me via <a href="https://www.linkedin.com/in/pratibhadutta">LinkedIn</a>.
