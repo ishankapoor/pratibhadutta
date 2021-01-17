@@ -1,14 +1,47 @@
 ---
 layout: page
 title: Resume
-date: 2016-03-15
+date: 2021-01-17
 ---
 
 <p class="message">Work Experience</p>
 
+<h2><a href="http://www.tech-res.com/">TRI Inc.</a><cite class="job-location">&mdash;Bethesda, MD</cite></h2>
+<h3 class="job-title">Recruiter</h3>
+<div class="post-date">October 2019 &mdash; October 2020 (1 year)</div>
+
+ * Supportingfull-life cycle recruitment including sourcing, selection and offer development, from the initial staff requisition to final appointment.
+ * Developingdetailed understanding of all projects and functional departments, providing best practices recruitment strategy; established as acredible and trusted talent advisor to hiring managers.
+ * Creatively sourcing(activelyand passively) high quality talent; developingcreative strategies for hard to fill positions including (via direct sourcing and internet recruitment), leveraging industry networks; buildinga talent pipeline.
+ * Evaluatingcandidate skills and experiences to match core competencies with key hiring requirements; assess motivational and culture fit; provide constructive and thoughtful feedback to hiring managers for internal and external candidate reviews and recommendations.
+ * Managingthe offer process for internal and external candidates, including pre-employment screening and offer analysis and development.
+ * Ensuringhiring is consistent with the business goals and followingrecruitment guidelines/processes to ensure compliance.
+ * Ensuringa positive hiring manager and candidate experience throughout the full recruitment life cycle
+ * Train hiring managers on Applicant Tracking Systemsfor efficient hiring decisions.
+ * Creating high quality video tutorials onvarious workflows for <a href="https://careerbuilder.com">careerbuilder.com</a> for hiring managers.
+ 
 <h2><a href="http://axleinfo.com">Axle Informatics</a><cite class="job-location">&mdash;Rockville, MD</cite></h2>
 <h3 class="job-title">HR Associate</h3>
-<div class="post-date">May 2015 &mdash; Oct 2016</div>
+<div class="post-date">March 2018 &mdash; September 2019 (1 year 5 months)</div>
+
+* Recruiting interns for NIH
+  * Understanding the intricacies of H1B and OPT of international candidates.
+  * Full life cycle recruiting--creating job descriptions, sourcing, cold calling, prescreening, and interview scheduling. Documenting the process for each applicant via ATS.
+  * Areas where interns got placed--Bioinformatics, Robotics, Marketing, Business Development, Accounting and Human Resources○Mentoring, organizing social events for interns as well as day-to-day welfare
+* Recruiting full-time positions for NIH.
+  * Focussed on cutting edge scientific and software based positions.
+  * Understanding (niche) technical requirements.
+  * Full life cycle recruiting:creating job descriptions, sourcing, cold calling, prescreening, interview scheduling and reference checks.
+  * Understanding the intricacies of H1B, TN, L1,G4, J1, F1 and OPT of International candidates.
+  * Candidates hired in software development, research and management
+  * Java, JavaScript, NodeJS, AngularJS, Python, Sharepoint, UI/UX, D3JS, Developers; DevOps and Robotics Engineers Graphic Designer; Project, Program and IT managers. *Candidates hired in corporate and managerial
+  * Accounting Assistant, Financial Analyst, Business Development Assistant, Technical Content Writer, Corporate Recruiter, HR Generalist, Contract Level Program Manager, Program Manager and Executive Assistants.
+  * Candidates hired in research and scientific positions
+  * Laboratory Associate, Confocal Microscopy Specialist, Biologist, Scientific System Analyst, Health Science Analyst, Statisticians and Staff scientist
+
+<h2><a href="http://axleinfo.com">Axle Informatics</a><cite class="job-location">&mdash;Rockville, MD</cite></h2>
+<h3 class="job-title">HR Associate</h3>
+<div class="post-date">May 2015 &mdash; Oct 2016 (1 year 4 months)</div>
 
 * Making sure Axle Informatics has a continuous stream of national and international interns for positions with NIH offices near Bethesda, MD.
   * Placing job postings on university job boards, referrals from past interns.
