@@ -98,7 +98,7 @@ date: 2021-01-17
 
 ## Manpower Resource Center (MPRC)<cite class="job-location">&mdash;Noida, India</cite>
 <h3 class="job-title">Human Resources Coordinator</h3>
-<div class="post-date">February 2010 &mdash; January 2011 (1 year)</div>
+<div class="post-date">May 2010 &mdash; July 2010 (3 months)</div>
 
 * Recruited for various positions, from staff engineers to CEOs and CTOs in sectors ranging from textiles, business process outsourcing, and banks to Graphite electrode manufacturing. Used referrals, personal / professional network and social media for recruiting.
 * Reviewed candidate work experience, skill set, and work profile before sending best candidates for vetting and interview.
