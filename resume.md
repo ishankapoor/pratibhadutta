@@ -33,12 +33,12 @@ date: 2021-01-17
   * Understanding (niche) technical requirements.
   * Full life cycle recruiting:creating job descriptions, sourcing, cold calling, prescreening, interview scheduling and reference checks.
   * Understanding the intricacies of H1B, TN, L1,G4, J1, F1 and OPT of International candidates.
-  * Candidates hired in software development, research and management
-  * Java, JavaScript, NodeJS, AngularJS, Python, Sharepoint, UI/UX, D3JS, Developers; DevOps and Robotics Engineers Graphic Designer; Project, Program and IT managers. 
-  * Candidates hired in corporate and managerial
-  * Accounting Assistant, Financial Analyst, Business Development Assistant, Technical Content Writer, Corporate Recruiter, HR Generalist, Contract Level Program Manager, Program Manager and Executive Assistants.
-  * Candidates hired in research and scientific positions
-  * Laboratory Associate, Confocal Microscopy Specialist, Biologist, Scientific System Analyst, Health Science Analyst, Statisticians and Staff scientist
+* Candidates hired in software development, research and management
+   * Java, JavaScript, NodeJS, AngularJS, Python, Sharepoint, UI/UX, D3JS, Developers; DevOps and Robotics Engineers Graphic Designer; Project, Program and IT managers.
+* Candidates hired in corporate and managerial
+   * Accounting Assistant, Financial Analyst, Business Development Assistant, Technical Content Writer, Corporate Recruiter, HR Generalist, Contract Level Program Manager, Program Manager and Executive Assistants.
+* Candidates hired in research and scientific positions
+   * Laboratory Associate, Confocal Microscopy Specialist, Biologist, Scientific System Analyst, Health Science Analyst, Statisticians and Staff scientist
 
 <h2><a href="http://axleinfo.com">Axle Informatics</a><cite class="job-location">&mdash;Rockville, MD</cite></h2>
 <h3 class="job-title">HR Associate</h3>
