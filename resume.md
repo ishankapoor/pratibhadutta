@@ -12,12 +12,12 @@ date: 2021-01-17
 
  * Supporting full-life cycle recruitment including sourcing, selection and offer development, from the initial staff requisition to final appointment.
  * Developing detailed understanding of all projects and functional departments, providing best practices recruitment strategy; established as acredible and trusted talent advisor to hiring managers.
- * Creatively sourcing(activelyand passively) high quality talent; developingcreative strategies for hard to fill positions including (via direct sourcing and internet recruitment), leveraging industry networks; buildinga talent pipeline.
+ * Creatively sourcing(actively and passively) high quality talent; developing creative strategies for hard to fill positions including (via direct sourcing and internet recruitment), leveraging industry networks; building a talent pipeline.
  * Evaluating candidate skills and experiences to match core competencies with key hiring requirements; assess motivational and culture fit; provide constructive and thoughtful feedback to hiring managers for internal and external candidate reviews and recommendations.
  * Managing the offer process for internal and external candidates, including pre-employment screening and offer analysis and development.
- * Ensuring hiring is consistent with the business goals and followingrecruitment guidelines/processes to ensure compliance.
- * Ensuringa positive hiring manager and candidate experience throughout the full recruitment life cycle
- * Train hiring managers on Applicant Tracking Systemsfor efficient hiring decisions.
+ * Ensuring hiring is consistent with the business goals and following recruitment guidelines/processes to ensure compliance.
+ * Ensuring positive hiring manager and candidate experience throughout the full recruitment life cycle
+ * Train hiring managers on Applicant Tracking Systems for efficient hiring decisions.
  * Creating high quality video tutorials onvarious workflows for <a href="https://careerbuilder.com">careerbuilder.com</a> for hiring managers.
  
 <h2><a href="http://axleinfo.com">Axle Informatics</a><cite class="job-location">&mdash;Rockville, MD</cite></h2>
@@ -56,7 +56,7 @@ date: 2021-01-17
   * Validating time sheets and sending for NIH approval.
 * Organizing happy hours and company events
   * Putting together the company holiday party.
-  * Setting up company happy hour.
+  * Setting up regular company happy hour.
 * Oversee the Alxe benefits program
   * Educating employees about various health/FSA/transport/401k/ plan options.
 * In charge of managing travel re-imbursement of employees with NIH.
