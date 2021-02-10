@@ -4,7 +4,18 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
   <!-- SEO -->
-  <meta name="description" content="Human Resource Professional">
+  {% if page.title == "Home" %}
+   <meta name="description" content="Homepage of Pratibha Dutta Human Resource Professional">
+  {% elsif page.title == "About" %}
+   <meta name="description" content="Background and testimonials of my work">
+  {% elsif page.title == "Life" %}
+   <meta name="description" content="Latest updates on life">
+  {% elsif page.title == "Resume" %}
+   <meta name="description" content="Latest resume and achievements">
+  {% else %}
+   <meta name="description" content="Pratibha Dutta Human Resource Professional">
+  {% endif %}
+
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
