@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Resume
-date: 2021-01-17
+date: 2023-02-24
 ---
 
 <p class="message">Work Experience</p>
 
 <h2><a href="http://www.tech-res.com/">TRI Inc.</a><cite class="job-location">&mdash;Bethesda, MD</cite></h2>
 <h3 class="job-title">Recruiter</h3>
-<div class="post-date">October 2019 &mdash; October 2020 (1 year)</div>
+<div class="post-date">October 2019 &mdash; Present</div>
 
  * Supporting full-life cycle recruitment including sourcing, selection and offer development, from the initial staff requisition to final appointment.
  * Developing detailed understanding of all projects and functional departments, providing best practices recruitment strategy; established as acredible and trusted talent advisor to hiring managers.
